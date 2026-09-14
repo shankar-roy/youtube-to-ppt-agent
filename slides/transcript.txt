@@ -1,0 +1,233 @@
+# video_id: Gjev8RkqO1k
+# source: youtube-transcript-api
+# url: https://www.youtube.com/watch?v=Gjev8RkqO1k
+
+[00:00] hey guys this is Simon and welcome back
+[00:01] to another new tutorial of poppin school
+[00:03] so today I will show you how to make
+[00:05] this attractive and I catchy
+[00:06] presentation slide in just power point I
+[00:09] think so far this is the best work that
+[00:11] I have done and I hope you will also
+[00:13] love this I work day and night and try
+[00:16] to give my best to make this type of
+[00:18] PowerPoint stops so I can expect to get
+[00:20] the best support from you please watch
+[00:23] this video till the end if you haven't
+[00:25] subscribed our channel yet make sure you
+[00:27] subscribe and share this video as much
+[00:30] as you can this will motivate me a lot
+[00:32] so without wasting any further time
+[00:34] let's start our today's tutorial here
+[00:37] you can see I have already taken a blank
+[00:38] slide so first to change the background
+[00:41] color go to design click on format
+[00:44] background and from here
+[00:47] I'll pick this light gray color close it
+[00:51] go to home pick a rectangle shape drag
+[00:57] it over here
+[01:02] go to format from shape fill change the
+[01:05] color to light gray from shape outline
+[01:08] select no outline now click on the small
+[01:12] arrow go to effect under the shadow
+[01:18] option change the shadow color to black
+[01:21] set the transparency to 65% size 101
+[01:26] percent blur 17 point angle 0 degree and
+[01:33] distance 3 point now I can close it here
+[01:40] you can see that our shadow has been
+[01:42] added so now we have to pick a oval
+[01:46] shape holding the control shift from
+[01:49] your keyboard drag it over here go to
+[01:53] format from shape outline select no
+[01:57] outline then pick our rectangle shape
+[02:00] drag it over the circle make sure this
+[02:05] rectangle is covering the half portion
+[02:07] of our circle holding the control button
+[02:09] we need to select this too from Mars
+[02:11] shape we need to select subtract then
+[02:14] from shape fill we'll change the color
+[02:18] of this half circle and I can drag this
+[02:20] shape over here in the middle portion of
+[02:23] the rectangle pick our text box drag it
+[02:28] over here add some text or title
+[02:32] selecting the text change the font to
+[02:33] TWC and MT change the font size make it
+[02:36] bold make it Center then go to arrange
+[02:42] from rotate select rotate left 90 degree
+[02:48] place this text box over here select all
+[02:52] the text
+[02:53] change the font color to light gray now
+[02:58] we can add our icon on this hub circle
+[03:01] so go to insert click on picture I'll
+[03:03] take this light icon which I have
+[03:04] already downloaded from flat icon calm
+[03:06] I'll give the link in the description of
+[03:08] this video place it over here from
+[03:11] rotate select rotate left 90 degree
+[03:13] place this I can
+[03:15] middle now press ctrl-a to select all of
+[03:19] these drag them to right now we need to
+[03:25] select only this rectangle shape and
+[03:27] resize it from this side holding the
+[03:29] control button we need to select all of
+[03:31] these and press ctrl G to group so now
+[03:34] what I'll do right click on this slide
+[03:36] select duplicate again do the same right
+[03:40] click and select duplicate or you can
+[03:41] just press control D to duplicate
+[03:43] because here we need six different
+[03:45] slides so go to the second slide select
+[03:48] the half circle from here go to format
+[03:51] from shape field change the color and
+[03:54] also from this text box change the title
+[03:57] we need to do the same for the third
+[04:00] slide select this half circle change the
+[04:02] color and the title in the same way we
+[04:05] can change the color of this half
+[04:07] circles from our other slides that the
+[04:10] reason I'm doing it in fast-forward here
+[04:11] I'm using some custom colors so I will
+[04:13] provide the RGB value in our website
+[04:16] that is popping school.com here you can
+[04:19] see that we have six different slide
+[04:20] with the six different color
+[04:22] combinations go to our second slide
+[04:23] select this group of shape press control
+[04:26] X to cut go back to your first slide
+[04:29] press control V to paste now place it
+[04:32] over here go forward to our third slide
+[04:36] select this one press control X to cut
+[04:38] go back to our first slide press control
+[04:41] V to paste place it here and make sure
+[04:43] that the distance is same as before here
+[04:45] I'm in the fourth slide
+[04:47] press control X to cut go back to your
+[04:50] first slide press kotl V to paste do the
+[04:53] same for this one zoom out a bit
+[04:56] press control X to cut this one and
+[04:59] control V to paste place it here doing
+[05:03] the same for the last time select this
+[05:06] one press control X to cut go back to
+[05:08] our first slide press control V to paste
+[05:09] and place it here now we have to select
+[05:15] all of these holding the shift key from
+[05:19] your keyboard drag all of them to left
+[05:23] here you have to make sure that this
+[05:25] group of shapes are in the right
+[05:26] position
+[05:28] and then you can just delete these
+[05:30] unnecessary slides just select and press
+[05:32] delete from your keyboard now
+[05:35] right-click on this slide select
+[05:38] duplicate in the second slide select
+[05:40] this first group holding the shift key
+[05:42] drag it to right now we have to do the
+[05:45] same right click on the second slide
+[05:47] select duplicate for the third slide
+[05:50] select the second group of shape and
+[05:53] drag it over here right-click on this
+[05:57] slide select duplicate do the same
+[06:00] select the third group of shape holding
+[06:02] the shift key drag it to here again
+[06:05] right-click on this slide select
+[06:08] duplicate now select this group of shape
+[06:12] from holding the shift key drag it to
+[06:14] right do the same again right-click
+[06:17] select duplicate slide select this group
+[06:21] of shape holding the shift key drag it
+[06:23] to right again right click on this slide
+[06:27] select duplicate for the last time
+[06:29] select this group of shape and drag it
+[06:32] to here here you can see that we are
+[06:34] done with creating all these seven
+[06:35] slides with the free space where we can
+[06:38] add our presentation content or this
+[06:41] video I have already created all the
+[06:43] animated content in a different slide so
+[06:45] I will just copy and paste those here is
+[06:48] our all the animated content if you go
+[06:50] to the animation pane you can see that
+[06:52] the animations are added already if you
+[06:55] don't know how to make these then I'll
+[06:58] suggest you to check our previous
+[06:59] tutorials or click on the I button to
+[07:02] get those videos where I have already
+[07:04] explained how to make this now I'll just
+[07:06] select these and press ctrl C to copy
+[07:08] let's come back to your original slide
+[07:11] press ctrl V to paste place it in the
+[07:13] middle go forward to your 2nd slide to
+[07:17] add the animated content here I'll just
+[07:22] copy these press ctrl C to copy come
+[07:27] back to your original slide press ctrl V
+[07:29] to paste place these in the middle go
+[07:33] forward to our next slide to add the
+[07:35] content from here
+[07:40] we need to select all of these press
+[07:45] control-c to copy
+[07:47] come back to your original slide pest
+[07:50] control V to paste and place these in
+[07:53] the middle do the same again go forward
+[07:56] to our next slide to add the content we
+[08:01] just need to select all of these from
+[08:05] here press ctrl C to copy come back to
+[08:10] our original slide press ctrl V to paste
+[08:13] make sure these are in the middle go
+[08:15] forward to next slide do the same I'll
+[08:21] just copy these element press ctrl C to
+[08:26] copy come back to our original slide
+[08:28] press ctrl V to paste make sure these
+[08:31] are in the middle here you can see that
+[08:33] we were just copying and pasting these
+[08:34] animated contents if you don't know how
+[08:37] to make these I have already said that
+[08:39] check our previous tutorial or click on
+[08:41] the I button and if you want to use the
+[08:43] same content that we are using I'll
+[08:45] provide the resource file so you need
+[08:47] not to worry about it now I'll do the
+[08:50] same thing for the last time
+[08:51] so go forward to your next slide to add
+[08:54] the animated content here go to the
+[08:57] resource file from here I'll select all
+[09:01] of these animated content press ctrl C
+[09:04] to copy come back to your original slide
+[09:06] press ctrl V to paste make sure these
+[09:08] are in the middle so now you're just
+[09:10] left with one single step and that is we
+[09:12] need to add the transition so go back to
+[09:14] your first slide go to transition and
+[09:16] from here you need to select the morph
+[09:18] transition and set the division point
+[09:20] seven-five second if you don't have the
+[09:22] morph transition in your version of
+[09:24] PowerPoint I will suggest you to
+[09:26] download this template file as I have
+[09:28] added the morph transition here so it
+[09:30] doesn't matter you have the mauve
+[09:32] transition or not you will be able to
+[09:34] use it but this will work only for this
+[09:37] template so we are done with our today's
+[09:39] tutorial if you start the slideshow you
+[09:41] can see that everything is working as
+[09:43] expected
+[09:44] let me share a thin that is if you go to
+[09:46] any market place to buy PowerPoint
+[09:48] template you have to pay around to any
+[09:49] dollar but here I'm providing the best
+[09:52] works for free of anak
+[09:53] so again I'm asking for your kind
+[09:56] support I have provided the download
+[09:58] link in the description of this video
+[10:00] or you can visit our website powerpoints
+[10:02] cool calm they'll get the written
+[10:04] documentation and also the download
+[10:06] button if you have enjoyed this tutorial
+[10:08] make sure you give a like for this video
+[10:10] if you're new to this channel make sure
+[10:12] you subscribe share with your friends
+[10:14] and don't forget to click on the bell
+[10:16] icons so that you get a notification
+[10:17] when you upload a new video so that's
+[10:21] all for today hope to see in the next
+[10:23] tutorial and thanks for watching

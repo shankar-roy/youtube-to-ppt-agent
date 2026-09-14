@@ -1,0 +1,16 @@
+{
+  "title": "Animated PowerPoint Slide by PowerPoint School",
+  "intent": "follow_instructions",
+  "source_url": "https://www.youtube.com/watch?v=Gjev8RkqO1k",
+  "source_template": "/Volumes/4TB/Users/roy/Downloads/Animated PowerPoint Slide Template by PowerPoint School/Animated PowerPoint Slide by PowerPoint School.pptx",
+  "notes": "Video is a Morph tab-template tutorial. Output is the official 7-slide template (about, history, timeline, teams, services, follow), not a how-to outline.",
+  "slides": [
+    { "layout": "title", "title": "WELCOME", "subtitle": "Free PowerPoint template — PowerPoint School" },
+    { "layout": "bullets", "title": "about", "bullets": ["Message from Alan Martin, CEO"] },
+    { "layout": "bullets", "title": "history", "bullets": ["2018 / 2014 / 2010 stats"] },
+    { "layout": "bullets", "title": "timeline", "bullets": ["2014–2016"] },
+    { "layout": "bullets", "title": "teams", "bullets": ["Alan Martin, Jhon Doe, Pablo Picaso"] },
+    { "layout": "bullets", "title": "services", "bullets": ["Web Design blocks"] },
+    { "layout": "bullets", "title": "follow", "bullets": ["8M / 6M / 7M"] }
+  ]
+}
