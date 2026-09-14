@@ -1,0 +1,9 @@
+{
+  "name": "com.facebookvideosaver",
+  "description": "Facebook Video Saver native host (yt-dlp)",
+  "path": "HOST_PATH_PLACEHOLDER",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://ncnpbjlcfaclamglimgibjbhgmhffcai/"
+  ]
+}

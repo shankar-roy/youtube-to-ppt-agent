@@ -1,0 +1,172 @@
+:root {
+  color-scheme: dark;
+  --bg: #1c1e21;
+  --card: #242526;
+  --text: #e4e6eb;
+  --muted: #b0b3b8;
+  --accent: #2d88ff;
+  --danger: #fa383e;
+  --ok: #45bd62;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  width: 380px;
+  padding: 16px;
+  font: 13px/1.4 system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+h1 {
+  margin: 0 0 4px;
+  font-size: 16px;
+}
+
+.lede,
+.hint,
+.helper {
+  margin: 0 0 12px;
+  color: var(--muted);
+}
+
+textarea,
+select,
+button {
+  font: inherit;
+}
+
+textarea {
+  width: 100%;
+  resize: vertical;
+  padding: 8px;
+  border: 1px solid #3e4042;
+  border-radius: 8px;
+  background: var(--card);
+  color: var(--text);
+}
+
+.row {
+  margin: 10px 0;
+}
+
+select {
+  margin-left: 8px;
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid #3e4042;
+  border-radius: 6px;
+  padding: 4px 6px;
+}
+
+.check {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  margin: 8px 0 12px;
+  color: var(--muted);
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+button {
+  border: 0;
+  border-radius: 8px;
+  padding: 8px 10px;
+  background: #3a3b3c;
+  color: var(--text);
+  cursor: pointer;
+}
+
+button.primary {
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+}
+
+button.ghost {
+  background: transparent;
+  color: var(--muted);
+}
+
+.error {
+  color: var(--danger);
+  margin: 6px 0 0;
+}
+
+.helper.ok {
+  color: var(--ok);
+}
+
+.helper.bad {
+  color: var(--danger);
+}
+
+#jobs {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 240px;
+  overflow: auto;
+}
+
+#jobs li {
+  background: var(--card);
+  border-radius: 8px;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+
+#jobs .url {
+  word-break: break-all;
+  color: var(--muted);
+}
+
+#jobs .meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.bar {
+  height: 4px;
+  background: #3a3b3c;
+  border-radius: 4px;
+  margin-top: 6px;
+  overflow: hidden;
+}
+
+.bar > span {
+  display: block;
+  height: 100%;
+  background: var(--accent);
+}
+
+.status-done {
+  color: var(--ok);
+}
+
+.status-error {
+  color: var(--danger);
+}
+
+code {
+  font-size: 12px;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}

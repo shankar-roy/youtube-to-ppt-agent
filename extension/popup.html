@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Facebook Video Saver</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Facebook Video Saver</h1>
+      <p class="lede">Paste Watch, Reels, or video permalinks you are allowed to save.</p>
+    </header>
+
+    <label class="sr-only" for="urls">Video URLs</label>
+    <textarea id="urls" rows="5" placeholder="https://www.facebook.com/watch?v=…&#10;https://fb.watch/…"></textarea>
+    <p id="url-error" class="error" hidden></p>
+
+    <div class="row">
+      <label>
+        Quality
+        <select id="quality">
+          <option value="best">Best</option>
+          <option value="720p">720p</option>
+          <option value="480p">480p</option>
+        </select>
+      </label>
+    </div>
+
+    <label class="check">
+      <input type="checkbox" id="use-cookies" />
+      Use my Chrome cookies for videos that require login (your session only)
+    </label>
+
+    <p class="hint">Saves to <code>~/Downloads/FacebookVideos</code>. Files never leave this Mac.</p>
+
+    <div class="actions">
+      <button type="button" id="download" class="primary">Download</button>
+      <button type="button" id="ping">Check helper</button>
+      <button type="button" id="clear" class="ghost">Clear list</button>
+    </div>
+
+    <p id="helper-status" class="helper"></p>
+    <ul id="jobs"></ul>
+
+    <script type="module" src="popup.js"></script>
+  </body>
+</html>
