@@ -1,0 +1,444 @@
+# video_id: h4-KYwUp9ys
+# source: youtube-transcript-api
+# url: https://www.youtube.com/watch?v=h4-KYwUp9ys
+
+[00:11] [music]
+[00:15] Hey guys, this is Zaman and welcome back
+[00:17] to another new tutorial video of
+[00:19] Poweroint School. So today we'll learn
+[00:20] how to create and animate our own solar
+[00:23] system in just PowerPoint. But let me
+[00:25] give you a disclaimer first. I have
+[00:27] tried to design all the planets as
+[00:29] accurately as possible but the animation
+[00:31] is just a symbolic form and not how
+[00:34] actually our whole solar system works. I
+[00:36] have divided this tutorial into a few
+[00:38] different sections. So the timestamps
+[00:40] are on the screen. If you want to start
+[00:42] watching from any particular section,
+[00:44] you can simply skip to that part. So
+[00:46] without wasting any further time, let's
+[00:48] start out this tutorial. First, we need
+[00:50] to add a gradient background. So just
+[00:52] switch from solid field to gradient
+[00:53] field. You'll get two different stops.
+[00:55] We need another one. So just click on
+[00:56] the plus icon to add another stop. Now
+[00:58] select the first gradient stop from more
+[01:00] color option. Go to custom and here we
+[01:04] need to add a color code. Press okay.
+[01:06] Select the second gradient stop. This
+[01:08] time we'll add a different color code
+[01:10] and that is dark blue which will be the
+[01:12] main color of our slide background. Next
+[01:15] select the third one from more colors
+[01:17] option. Go to custom. Add the color code
+[01:20] that we have used for the first gradient
+[01:22] stop. It will create a dark space on
+[01:24] both sides of our slide. Now to add some
+[01:26] circular lines, let's pick an oval shape
+[01:28] and make it a perfect circle. To adjust
+[01:30] the size, I will set it to 3.55 in from
+[01:33] both sides. After that, place the circle
+[01:35] in the center middle position of our
+[01:36] slide. Here in format shape, select no
+[01:39] fill and from line, make sure it is
+[01:41] selected solid line. Let's add a custom
+[01:43] color. Here I'm typing the hex value of
+[01:45] the color that I want to use for this
+[01:46] circular lines. Still we need a few more
+[01:48] customization. So increase the width by
+[01:51] two point dash type long dash double dot
+[01:54] and set the cap type round. So our first
+[01:57] circular line is ready. Now we can
+[01:59] simply make a duplicate copy and adjust
+[02:01] the size setting it to 4.90 in from both
+[02:04] side using the alignment tool. Place it
+[02:06] in the center middle of our slide. In
+[02:08] total we need eight circular lines and
+[02:10] these lines are going to represent the
+[02:12] orbits of our planets. By selecting a
+[02:14] circle, press Ctrl D to make a duplicate
+[02:16] copy and adjust the size. Each line
+[02:19] needs to be bigger than the previous
+[02:20] one. And to match the gap between these
+[02:22] lines, I'll increase the size of each
+[02:24] line by 1.35 in. In this way, we need to
+[02:27] increase the size of these lines one by
+[02:29] one. Just keep adding the value of 1.35
+[02:32] in until you have a total of eight
+[02:33] circular lines. Here I'm adding the
+[02:35] final circle and the size is 13 in from
+[02:38] both sides. Make sure to set the align
+[02:40] center middle of our slide. So now we
+[02:42] can move forward to the next part where
+[02:43] I'll show you how to design these space
+[02:45] elements such as the sun and other
+[02:46] planets with stars. First I'm adding a
+[02:49] circle shape. Change the size to 2.4 in
+[02:52] from both sides. Set the align center
+[02:55] middle of our slide. From format shape
+[02:57] keep it solid fill and remove the
+[03:00] outline as it will represent the sun. Go
+[03:02] to more color options and let's add the
+[03:05] hex code for a light yellow color. To
+[03:07] create a smooth glowing effect, decrease
+[03:10] the color transparency to 80%. Press
+[03:12] Ctrl D to make another copy of it. This
+[03:14] time we'll decrease the size and make it
+[03:16] slightly smaller than the previous
+[03:18] circle. Place it in the center middle.
+[03:20] Set the color transparency to 70% which
+[03:22] is 10% lower than the previous one. Same
+[03:24] way take another copy. Decrease the
+[03:26] size. Place it in the center middle of
+[03:28] our slide. And lower the transparency
+[03:30] level 10% more. You can see it is very
+[03:32] simple. So this is the final circle that
+[03:34] we are adding. Decreasing the size. Just
+[03:36] place it in the center middle of our
+[03:37] slide. This time we will set the color
+[03:39] transparency to 0%. You can see we got
+[03:41] the glowing effect that we needed. Now
+[03:43] we can start adding all the planets.
+[03:45] Here I'm taking another copy of these
+[03:47] circles. We need to add another shape
+[03:49] here. So first make a duplicate copy of
+[03:52] this smaller circle only and place it on
+[03:54] the previous circle. Pick a rectangle
+[03:57] shape. Cover only the half portion of
+[03:59] this circle and remove the shape outline
+[04:02] from this rectangle. Now what I'll do
+[04:04] select these two shapes from merge shape
+[04:06] I'll select subtract and we'll get a
+[04:08] half circle. Let's just change the color
+[04:10] to black and set the transparency to
+[04:13] 85%. Here you can see we have two
+[04:15] different sides light and dark. It
+[04:17] represents the side which is facing the
+[04:19] sun is getting the light and the other
+[04:21] side is darker. Now simply change the
+[04:23] color of this circle so that it can
+[04:24] represent the planets that we are
+[04:26] adding. First I'm adding a green color
+[04:28] code for our home planet which is earth.
+[04:30] So after using the hex code for the
+[04:32] first time, we will get the exact color
+[04:34] in our recent color section. So from
+[04:36] here I'm just changing the color of
+[04:38] these circles one by one. Then what I'll
+[04:40] do holding the control button, select
+[04:42] these two shapes. Press Ctrl + G to
+[04:44] group them together. Finally, we have
+[04:45] added the first planet and let's add a
+[04:47] text box so that we can type some
+[04:49] information for each planet. Here first
+[04:51] type the name of the planet. I will
+[04:53] change the default font from Calibri to
+[04:55] Bridge Race. This is a free font and
+[04:57] looks futuristic to me. I'll provide the
+[04:59] font link in the description of the
+[05:00] video. Changing the size and color of
+[05:02] this text. Click on this small arrow.
+[05:05] From character spacing, I'll select
+[05:07] expanded by one point. Let's make a
+[05:09] duplicate copy of this text box. It will
+[05:11] be the information box for our planet.
+[05:13] So decrease the font size to five point
+[05:15] and change the font color to white. Add
+[05:18] some demo text here. Bring the text box
+[05:20] a little bit upward. Add these two boxes
+[05:23] into a group. As our first planet is
+[05:25] ready with the nezor text boxes, we can
+[05:28] simply make a duplicate copy of this.
+[05:29] Bring them on this orbit line and change
+[05:32] the name of the planet to Venus. From
+[05:34] more color options, let's add the custom
+[05:37] hex code for this particular planet and
+[05:40] press okay. As we have already used that
+[05:42] hex code for the first time, we will get
+[05:44] this exact same color in our recent
+[05:46] color section. So from here, I'm just
+[05:48] changing the color of these circles one
+[05:49] by one. So this is very straightforward
+[05:52] process. In this way we can add the
+[05:54] other planets as I have used different
+[05:56] color codes for these planets. So you
+[05:58] can get these with the template file or
+[06:00] I'll provide the hex codes in the
+[06:01] description of the video. So now we have
+[06:03] all the planets but something is still
+[06:05] missing. We can decorate our slide with
+[06:08] some small stars. Let's pick and add a
+[06:10] star shape which has four point from
+[06:13] shape fill. Change the color to white
+[06:15] and remove the shape outline. Now just
+[06:17] make some duplicate copy of this star
+[06:19] shape and place it here and there. Keep
+[06:22] some gap and this way we can decorate
+[06:24] the whole slide with these small stars.
+[06:26] It is very easy. After adding all these
+[06:29] star shape, we need to select all of
+[06:31] them and from the merge shape select
+[06:33] union so that we can convert these
+[06:35] individual shapes into a single shape.
+[06:37] Finally, our design process is done and
+[06:39] now we can start adding the animations.
+[06:42] Here I'm in the animation tab. First, we
+[06:44] will start with this big circular line.
+[06:46] So from add animation, select zoom. Keep
+[06:50] this on click duration 0.75 second and
+[06:53] no delay time for the first circular
+[06:55] line. Select the second one from add
+[06:57] animation. Select zoom. Set the time
+[07:01] start with previous duration 0.75 second
+[07:04] and set the delay time 0.05 second.
+[07:07] Select the third one from add animation.
+[07:09] Again select the zoom. Set a start with
+[07:12] previous duration 0.75 second. Increase
+[07:14] the delay time 0.05 second more. So that
+[07:17] is 0.10 seconds. Select the next
+[07:20] circular line from add animation. Select
+[07:23] zoom. Set it start with previous
+[07:25] duration 0.75 second and delay 0.15
+[07:28] second. So here you can see we are
+[07:30] adding the same zoom animation for these
+[07:32] circular lines one by one. The only
+[07:35] difference that we are making is in
+[07:37] setting the delay time for each circle
+[07:39] we are increasing the delay time by 0.05
+[07:41] second more. From the second circle we
+[07:43] have started adding and then increasing
+[07:45] the delay time one after another. So
+[07:47] here for the last circular line. Let's
+[07:49] set it from 0.30 second to 0.35 second.
+[07:53] Now if you want you can play the
+[07:54] animations to understand what actually
+[07:56] we're doing. After that it is time to
+[07:58] animate the sun. First select this
+[08:00] circle which has no color transparency.
+[08:02] From add animation. Go to more entrance
+[08:05] effect. Here I'll select spinner. Press
+[08:08] okay. Set the animation time on click.
+[08:11] Duration 1 second. As I want to use
+[08:13] another animation on this circle. So
+[08:15] from add animation select grow or shrink
+[08:20] set it start with previous duration 2
+[08:23] second from effect option I'll set the
+[08:26] custom value 108%
+[08:29] increase both smooth start and end to 1
+[08:32] second select auto reverse from timing
+[08:34] select repeat until end of the slide and
+[08:36] press okay our first circle is ready now
+[08:39] for the second circle we need the same
+[08:40] type of animations let me show you again
+[08:43] from add animation Go to more entrance
+[08:46] effects. From here I'll select spinner.
+[08:48] Press okay. Set the animation time start
+[08:51] with previous duration 1 second. This
+[08:54] time we need to add a delay time that is
+[08:55] 0.15 seconds. As we need to add another
+[08:58] animation on this particular circle.
+[08:59] From add animation let's select grow or
+[09:01] shrink. Set start with previous. From
+[09:05] effect option we need to make some
+[09:06] changes that we have already added for
+[09:08] the first circle. Here I'm typing 108%.
+[09:11] Increase the smooth start and end to 1
+[09:13] second. Select auto reverse from timing.
+[09:15] Select repeat until end of the slide and
+[09:17] press okay. We have two more circles to
+[09:19] animate. But as we're going to use the
+[09:20] same animation settings for these
+[09:22] circles to save time, what we can do?
+[09:24] Just copy and paste this animation
+[09:26] settings here. Click on animation
+[09:27] painter tool to copy the animation from
+[09:29] the previous circle and paste it on the
+[09:30] third circle. Here we just need to
+[09:32] increase the delay time by 0.15 second.
+[09:34] That is 0.30 seconds. For the final
+[09:37] circle, we'll do the same. Click on
+[09:38] animation painter tool to copy the
+[09:40] animation and paste it on our last
+[09:42] circle. This time once again we need to
+[09:44] increase the delay time by 0.15 second
+[09:46] that is 0.45 second. So our sun is ready
+[09:49] to glow and spread the light. Let's play
+[09:51] the animation from the start and you can
+[09:53] see everything is working as expected.
+[09:55] So let's add the animations on our first
+[09:57] planet which is very close to the sun
+[09:59] Mercury. First select the orbital line
+[10:01] of Mercury. From add animation select
+[10:04] spin. Set the animation time. Keep on
+[10:06] click duration 15 second. And from
+[10:09] effect option we need to make some
+[10:11] changes. Select 360° counterclockwise.
+[10:14] From timing, select repeat until end of
+[10:17] the slide. Press okay. Here the line is
+[10:20] spinning. Now to animate the planet, we
+[10:22] have four circles like the sun. As we
+[10:25] will use the same type of animations, we
+[10:27] can simply copy and paste the animations
+[10:29] from the sun. So what I will do, select
+[10:31] the first circle from the sun. To copy
+[10:33] the animation settings, click on
+[10:34] animation painter tool to copy and paste
+[10:37] it on the first circle of mercury. only
+[10:39] for the first circle. Change the
+[10:40] animation timing from on click to with
+[10:42] previous. Select the second circle from
+[10:44] the sun. Again click on animation
+[10:46] painter tool to copy the animation and
+[10:49] paste it on the second circle of
+[10:50] mercury. You just need to keep in mind
+[10:52] that here we have four independent
+[10:54] circles. So if you copy the animation
+[10:57] from the third circle then you need to
+[10:58] paste it on the exact third circle of
+[11:01] the planet that you are animating. If
+[11:03] you copy from the last one then paste it
+[11:05] on the last one. Simple rule but you
+[11:07] need to go with the serial. After adding
+[11:09] the animations on the planet, select the
+[11:11] text box. To add the animation from add
+[11:14] animation, I will select fade. Set the
+[11:17] animation time start with previous
+[11:20] duration 0.25 second and delay 0.75
+[11:24] second. To add another animation on this
+[11:26] text box from add animation, select
+[11:29] lines from motion paths. From effect
+[11:32] option, I'll select left.
+[11:37] Click on this red arrow and drag this
+[11:40] red dot to the right and place it here.
+[11:42] Set the animation time start with
+[11:44] previous duration 2 second. Delay 0.75
+[11:47] second. Go to effect option. Select auto
+[11:51] reverse from timing. Select repeat until
+[11:54] end of the slide and press okay. Now if
+[11:57] you want you can play the animation from
+[11:59] here. And you can see our first planet
+[12:02] is ready with the animation.
+[12:05] Now select the second line which is the
+[12:07] orbit line of Venus. From add animation,
+[12:11] select spin. Keep this on click duration
+[12:14] 15 second.
+[12:16] Go to effect option. Keep this 360°
+[12:19] clockwise. If you remember for the
+[12:21] previous line, we have used
+[12:22] counterclockwise. That's why we are
+[12:23] using clockwise for this one. And here
+[12:26] select repeat until end of the slide and
+[12:28] press okay. Now to add the animation on
+[12:30] these four circles of Venus, we can just
+[12:32] copy the animation from Mercury. So here
+[12:34] I'm using the animation painter tool to
+[12:36] copy the animation from Mercury to
+[12:38] Venus. Select the second circle, click
+[12:40] on animation painter tool to copy the
+[12:42] animation and paste it on it. So that's
+[12:44] how easy it is and it will save a lot of
+[12:46] time. So let's select the last circle
+[12:48] from Mercury, copy the animation and
+[12:50] paste it on the last circle of Venus. In
+[12:52] the same way, we can copy and paste the
+[12:53] animation of this text boxes. But this
+[12:56] text box is in the opposite side of
+[12:57] Mercury. So we need to make a change.
+[12:59] Select the line animation. And from
+[13:03] effect option, we will change the
+[13:04] direction to right. Click on this red
+[13:08] arrow and drag this red dot to the left
+[13:10] and place it here. That's how we need to
+[13:12] add the animations on each planet. The
+[13:14] animation process is the same for all
+[13:16] these planets. That is why with the help
+[13:18] of the animation painter tool, we can
+[13:20] just copy and paste the animation
+[13:22] effects and settings from one animated
+[13:24] planet to another non-animated planet.
+[13:27] Take your time and make sure you copy
+[13:29] and paste the animations one by one.
+[13:32] After animating all the planets, select
+[13:34] this star shape from add animation.
+[13:36] Select fade. Set a start with previous
+[13:39] to add another animation on this star.
+[13:42] From add animation under emphasis I'll
+[13:45] select object color
+[13:48] from effect option I'll change the color
+[13:50] to this and I'll set the animation time
+[13:54] start with previous duration 0.25 to 5
+[13:57] seconds. Then click on this drop-own
+[14:00] arrow. Go to effect option. Here from
+[14:04] timing, select repeat until end of the
+[14:06] slide and press okay. And finally we are
+[14:10] done. If you start the slideshow, you
+[14:11] can see what we have created. Now let me
+[14:14] show you the second type of animation
+[14:16] where the space elements are designed in
+[14:18] a different layout. Here before we start
+[14:21] adding the animations, we need to make
+[14:23] some changes. This is the tricky part of
+[14:25] this animation here. If we group a
+[14:28] planet with its own circular line and
+[14:31] try to rotate it, you can see it is not
+[14:33] spinning in a proper way. It has a
+[14:35] problem that need to solve. Let me show
+[14:37] you how you can solve this. If you can
+[14:39] do that in a proper way, the animation
+[14:41] process will be very easy. First, you
+[14:43] need to make a duplicate copy of the
+[14:45] line where you have this problem. For
+[14:47] now, I'm just giving it a different
+[14:48] color so that we can identify the line.
+[14:50] Then place it over the line from where
+[14:53] we have made the copy.
+[14:56] Holding the control shift, we need to
+[14:59] increase the size of this new line. Make
+[15:01] it bigger. After that, what I'll do from
+[15:05] shape outline, I'll select no outline.
+[15:08] And you'll get this type of invisible
+[15:09] line. Now we have to select these two
+[15:12] lines and the planet. Press Ctrl G to
+[15:14] make them a group. Let's try to rotate
+[15:16] this group. And here is the result. You
+[15:19] can see we have solved the spinning
+[15:21] problem. You need to repeat the whole
+[15:23] process for all the planets where you
+[15:25] have this type of problem. After making
+[15:27] those changes, we can add the
+[15:28] animations. Let me show you the
+[15:29] animation process for a single planet.
+[15:32] First, rotate and place the planet
+[15:33] outside of our slide. Then go to
+[15:36] animation tab. From add animation,
+[15:39] select spin. And from effect option
+[15:43] here, we need to select
+[15:44] counterclockwise. Also, for this one,
+[15:47] you need to set a spinning angle. It
+[15:49] depends on where in the slide you want
+[15:50] to place the planet or how far it should
+[15:53] spin. For this particular planet, 33°
+[15:55] will be enough. And if I press okay, you
+[15:58] can see we got the accurate spin. And in
+[16:00] this way, you can add the animations on
+[16:02] all the planets that we have. And
+[16:04] finally, I can say we are done for
+[16:06] today. It was a very long tutorial, but
+[16:09] I have tried to keep it as easy as
+[16:10] possible. I have created an animated
+[16:12] bundle template for space elements and
+[16:14] our solar system in different layouts
+[16:16] and designs. So if you are interested,
+[16:18] you can check the description of the
+[16:20] video. I'll provide the link there. It
+[16:22] is available to both our Patreon and buy
+[16:24] me a coffee sponsors. So that's all from
+[16:27] this video. If you have enjoyed this
+[16:28] tutorial, please give a like. Let me
+[16:30] know your thoughts in the comments
+[16:31] section. I will see you in the next
+[16:33] video with another amazing PowerPoint
+[16:34] tutorial. And thanks for watching.

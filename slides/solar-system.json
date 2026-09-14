@@ -1,0 +1,13 @@
+{
+  "title": "Animated solar system",
+  "intent": "follow_instructions",
+  "source_url": "https://www.youtube.com/watch?v=h4-KYwUp9ys",
+  "notes": "PowerPoint School design tutorial. Deliverable is the designed solar-system slide (not a how-to outline). Animations and paid template are not in captions.",
+  "slides": [
+    {
+      "layout": "title",
+      "title": "Solar system",
+      "subtitle": "Eight orbits, glowing sun, planets with labels"
+    }
+  ]
+}
